@@ -1,0 +1,15 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb

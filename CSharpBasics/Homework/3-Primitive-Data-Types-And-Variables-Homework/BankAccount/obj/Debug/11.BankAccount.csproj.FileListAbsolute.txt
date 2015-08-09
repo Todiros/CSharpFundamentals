@@ -1,0 +1,15 @@
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\BankAccount\obj\Debug\11.BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\BankAccount\obj\Debug\BankAccount.pdb
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\BankAccount\bin\Debug\BankAccount.exe.config
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\BankAccount\obj\Debug\BankAccount.exe
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\BankAccount\obj\Debug\BankAccount.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\BankAccount\bin\Debug\BankAccount.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\BankAccount\obj\Debug\BankAccount.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\BankAccount\obj\Debug\BankAccount.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\BankAccount\bin\Debug\BankAccount.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\BankAccount\bin\Debug\BankAccount.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\BankAccount\obj\Debug\11.BankAccount.csprojResolveAssemblyReference.cache

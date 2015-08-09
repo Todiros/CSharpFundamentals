@@ -1,0 +1,10 @@
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOfNNums\bin\Debug\SumOfNNums.exe.config
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOfNNums\bin\Debug\SumOfNNums.exe
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOfNNums\bin\Debug\SumOfNNums.pdb
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOfNNums\obj\Debug\SumOfNNums.exe
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOfNNums\obj\Debug\SumOfNNums.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOfNNums\bin\Debug\SumOfNNums.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOfNNums\obj\Debug\SumOfNNums.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOfNNums\obj\Debug\SumOfNNums.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOfNNums\bin\Debug\SumOfNNums.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOfNNums\bin\Debug\SumOfNNums.pdb

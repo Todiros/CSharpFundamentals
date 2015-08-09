@@ -1,0 +1,1 @@
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\IntDoubleString\bin\Debug\IntDoubleString.exe.config

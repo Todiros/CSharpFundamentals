@@ -1,0 +1,1 @@
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractBitAtPosition\bin\Debug\ExtractBitAtPosition.exe.config

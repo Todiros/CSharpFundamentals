@@ -1,0 +1,12 @@
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\bin\Debug\PointInCircleAndRectangle.exe.config
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\bin\Debug\PointInCircleAndRectangle.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\bin\Debug\PointInCircleAndRectangle.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\obj\Debug\PointInCircleAndRectangle.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\obj\Debug\PointInCircleAndRectangle.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\obj\Debug\10.PointInCircleAndRectangle.csprojResolveAssemblyReference.cache
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\bin\Debug\PointInCircleAndRectangle.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\obj\Debug\PointInCircleAndRectangle.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\obj\Debug\PointInCircleAndRectangle.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\bin\Debug\PointInCircleAndRectangle.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\bin\Debug\PointInCircleAndRectangle.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircleAndRectangle\obj\Debug\10.PointInCircleAndRectangle.csprojResolveAssemblyReference.cache

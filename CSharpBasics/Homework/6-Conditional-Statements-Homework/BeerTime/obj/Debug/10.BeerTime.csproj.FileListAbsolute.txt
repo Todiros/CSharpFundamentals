@@ -1,0 +1,5 @@
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BeerTime\bin\Debug\BeerTime.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BeerTime\bin\Debug\BeerTime.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BeerTime\bin\Debug\BeerTime.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BeerTime\obj\Debug\BeerTime.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BeerTime\obj\Debug\BeerTime.pdb

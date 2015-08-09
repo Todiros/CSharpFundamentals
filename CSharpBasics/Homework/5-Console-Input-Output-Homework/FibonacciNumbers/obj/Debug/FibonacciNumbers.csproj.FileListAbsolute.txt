@@ -1,0 +1,1 @@
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config

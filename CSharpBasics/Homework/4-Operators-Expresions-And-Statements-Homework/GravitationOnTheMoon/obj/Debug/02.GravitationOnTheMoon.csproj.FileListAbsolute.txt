@@ -1,0 +1,20 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache
+H:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+H:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+H:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache

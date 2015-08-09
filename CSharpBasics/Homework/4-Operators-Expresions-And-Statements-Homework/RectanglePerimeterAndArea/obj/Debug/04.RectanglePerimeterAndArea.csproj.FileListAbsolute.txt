@@ -1,0 +1,16 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\obj\Debug\RectanglePerimeterAndArea.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\obj\Debug\RectanglePerimeterAndArea.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.exe.config
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\obj\Debug\RectanglePerimeterAndArea.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\obj\Debug\RectanglePerimeterAndArea.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\obj\Debug\RectanglePerimeterAndArea.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\obj\Debug\RectanglePerimeterAndArea.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\bin\Debug\RectanglePerimeterAndArea.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\RectanglePerimeterAndArea\obj\Debug\04.RectanglePerimeterAndArea.csprojResolveAssemblyReference.cache

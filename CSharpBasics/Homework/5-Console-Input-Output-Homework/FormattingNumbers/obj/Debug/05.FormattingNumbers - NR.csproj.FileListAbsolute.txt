@@ -1,0 +1,3 @@
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

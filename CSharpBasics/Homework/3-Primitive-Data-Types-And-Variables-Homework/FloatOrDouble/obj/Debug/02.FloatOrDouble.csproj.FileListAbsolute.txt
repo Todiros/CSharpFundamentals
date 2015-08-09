@@ -1,0 +1,11 @@
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

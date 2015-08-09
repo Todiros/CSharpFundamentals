@@ -1,0 +1,11 @@
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\TrapezoidArea\obj\Debug\TrapezoidArea.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\TrapezoidArea\obj\Debug\TrapezoidArea.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\TrapezoidArea\obj\Debug\09.TrapezoidArea.csprojResolveAssemblyReference.cache

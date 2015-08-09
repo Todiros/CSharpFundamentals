@@ -1,0 +1,17 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+G:\Tony\SoftUni\Homework\Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\FourDigitNumber\bin\Debug\FourDigitNumber.pdb

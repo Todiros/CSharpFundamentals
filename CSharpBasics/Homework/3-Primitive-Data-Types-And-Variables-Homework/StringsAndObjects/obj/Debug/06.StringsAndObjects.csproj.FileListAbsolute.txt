@@ -1,0 +1,14 @@
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\StringsAndObjects\obj\Debug\06.StringsAndObjects.csprojResolveAssemblyReference.cache

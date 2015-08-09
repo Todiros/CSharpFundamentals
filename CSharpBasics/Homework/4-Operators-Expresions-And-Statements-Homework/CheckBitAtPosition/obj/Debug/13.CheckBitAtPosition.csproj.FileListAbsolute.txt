@@ -1,0 +1,5 @@
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.pdb

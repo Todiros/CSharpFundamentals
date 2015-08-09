@@ -1,0 +1,14 @@
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+G:\Tony\SoftUni\Homework\Primitive-Data-Types-And-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\2-Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache

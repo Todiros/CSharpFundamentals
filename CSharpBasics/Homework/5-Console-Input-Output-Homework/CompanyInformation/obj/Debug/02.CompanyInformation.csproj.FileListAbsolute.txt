@@ -1,0 +1,12 @@
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.exe.config
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.exe
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.pdb
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\CompanyInformation\obj\Debug\CompanyInformation.exe
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\CompanyInformation\obj\Debug\CompanyInformation.pdb
+G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\CompanyInformation\obj\Debug\02.CompanyInformation.csprojResolveAssemblyReference.cache
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\CompanyInformation\obj\Debug\CompanyInformation.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\CompanyInformation\obj\Debug\CompanyInformation.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\CompanyInformation\obj\Debug\02.CompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\UniUser\Desktop\Exam - 12.04.14\Primitive-Data-Types-And-Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

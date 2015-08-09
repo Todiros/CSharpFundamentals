@@ -1,0 +1,11 @@
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\CheckForCard\bin\Debug\CheckForCard.exe.config
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\CheckForCard\bin\Debug\CheckForCard.exe
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\CheckForCard\bin\Debug\CheckForCard.pdb
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\CheckForCard\obj\Debug\CheckForCard.exe
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\CheckForCard\obj\Debug\CheckForCard.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\CheckForCard\bin\Debug\CheckForCard.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\CheckForCard\obj\Debug\CheckForCard.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\CheckForCard\obj\Debug\CheckForCard.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\CheckForCard\bin\Debug\CheckForCard.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\CheckForCard\bin\Debug\CheckForCard.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\CheckForCard\obj\Debug\03.CheckForCard.csprojResolveAssemblyReference.cache

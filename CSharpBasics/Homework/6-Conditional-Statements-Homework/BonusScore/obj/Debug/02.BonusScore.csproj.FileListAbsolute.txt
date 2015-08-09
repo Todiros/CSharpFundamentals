@@ -1,0 +1,11 @@
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.exe.config
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.exe
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.pdb
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\BonusScore\obj\Debug\BonusScore.exe
+G:\Tony\SoftUni\Homework\5-Conditional-Statements-Homework\BonusScore\obj\Debug\BonusScore.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BonusScore\obj\Debug\BonusScore.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BonusScore\obj\Debug\BonusScore.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
