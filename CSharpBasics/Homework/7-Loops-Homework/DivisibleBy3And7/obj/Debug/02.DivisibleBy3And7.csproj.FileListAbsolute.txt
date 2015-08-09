@@ -1,6 +1,0 @@
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\DivisibleBy3And7\bin\Debug\DivisibleBy3And7.exe.config
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\DivisibleBy3And7\bin\Debug\DivisibleBy3And7.exe
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\DivisibleBy3And7\bin\Debug\DivisibleBy3And7.pdb
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\DivisibleBy3And7\obj\Debug\DivisibleBy3And7.exe
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\DivisibleBy3And7\obj\Debug\DivisibleBy3And7.pdb
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\DivisibleBy3And7\obj\Debug\02.DivisibleBy3And7.csprojResolveAssemblyReference.cache

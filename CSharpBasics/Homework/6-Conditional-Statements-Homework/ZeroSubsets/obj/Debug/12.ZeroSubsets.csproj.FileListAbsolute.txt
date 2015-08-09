@@ -1,5 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\ZeroSubsets\bin\Debug\ZeroSubsets.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\ZeroSubsets\bin\Debug\ZeroSubsets.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\ZeroSubsets\bin\Debug\ZeroSubsets.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\ZeroSubsets\obj\Debug\ZeroSubsets.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\ZeroSubsets\obj\Debug\ZeroSubsets.pdb

@@ -1,5 +1,0 @@
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\CalculateSum\bin\Debug\CalculateSum.exe.config
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\CalculateSum\bin\Debug\CalculateSum.exe
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\CalculateSum\bin\Debug\CalculateSum.pdb
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\CalculateSum\obj\Debug\CalculateSum.exe
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\CalculateSum\obj\Debug\CalculateSum.pdb

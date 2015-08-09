@@ -1,8 +1,0 @@
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\NumberComparer\bin\Debug\NumberComparer.exe.config
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\NumberComparer\obj\Debug\NumberComparer.exe
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\NumberComparer\obj\Debug\NumberComparer.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\NumberComparer\bin\Debug\NumberComparer.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\NumberComparer\obj\Debug\NumberComparer.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\NumberComparer\obj\Debug\NumberComparer.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\NumberComparer\bin\Debug\NumberComparer.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\NumberComparer\bin\Debug\NumberComparer.pdb

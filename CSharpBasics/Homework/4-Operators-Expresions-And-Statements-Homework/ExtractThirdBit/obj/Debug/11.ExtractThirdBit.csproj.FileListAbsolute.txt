@@ -1,5 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractThirdBit\bin\Debug\ExtractThirdBit.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractThirdBit\bin\Debug\ExtractThirdBit.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractThirdBit\bin\Debug\ExtractThirdBit.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractThirdBit\obj\Debug\ExtractThirdBit.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractThirdBit\obj\Debug\ExtractThirdBit.pdb

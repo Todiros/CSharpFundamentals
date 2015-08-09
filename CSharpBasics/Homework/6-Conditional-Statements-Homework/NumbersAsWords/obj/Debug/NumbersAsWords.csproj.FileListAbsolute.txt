@@ -1,1 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config

@@ -1,1 +1,0 @@
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\NumbersInInterval\bin\Debug\NumbersInInterval.exe.config

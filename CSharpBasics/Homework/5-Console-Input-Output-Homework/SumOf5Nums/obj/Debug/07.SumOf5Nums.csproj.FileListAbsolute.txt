@@ -1,5 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\bin\Debug\SumOf5Nums.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\bin\Debug\SumOf5Nums.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\bin\Debug\SumOf5Nums.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\obj\Debug\SumOf5Nums.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\obj\Debug\SumOf5Nums.pdb

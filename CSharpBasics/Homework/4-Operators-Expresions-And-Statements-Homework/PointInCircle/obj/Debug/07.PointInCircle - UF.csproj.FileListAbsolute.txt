@@ -1,6 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircle\bin\Debug\PointInCircle.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircle\obj\Debug\PointInCircle.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircle\obj\Debug\PointInCircle.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircle\bin\Debug\PointInCircle.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircle\bin\Debug\PointInCircle.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\PointInCircle\obj\Debug\07.PointInCircle - UF.csprojResolveAssemblyReference.cache

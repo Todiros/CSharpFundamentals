@@ -1,9 +1,0 @@
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOf5Nums\bin\Debug\SumOf5Nums.exe.config
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOf5Nums\bin\Debug\SumOf5Nums.exe
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOf5Nums\bin\Debug\SumOf5Nums.pdb
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOf5Nums\obj\Debug\07.SumOf5Nums - UF.csprojResolveAssemblyReference.cache
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOf5Nums\obj\Debug\SumOf5Nums.exe
-G:\Tony\SoftUni\Projects\4-Console-Input-Output-Homework\SumOf5Nums\obj\Debug\SumOf5Nums.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\bin\Debug\SumOf5Nums.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\obj\Debug\SumOf5Nums.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Console-Input-Output-Homework\SumOf5Nums\obj\Debug\SumOf5Nums.pdb

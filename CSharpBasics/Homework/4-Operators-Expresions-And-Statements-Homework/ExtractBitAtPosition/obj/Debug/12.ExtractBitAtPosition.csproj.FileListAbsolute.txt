@@ -1,5 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractBitAtPosition\bin\Debug\ExtractBitAtPosition.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractBitAtPosition\bin\Debug\ExtractBitAtPosition.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractBitAtPosition\bin\Debug\ExtractBitAtPosition.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractBitAtPosition\obj\Debug\ExtractBitAtPosition.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\4-Operators-Expresions-And-Statements-Homework\ExtractBitAtPosition\obj\Debug\ExtractBitAtPosition.pdb

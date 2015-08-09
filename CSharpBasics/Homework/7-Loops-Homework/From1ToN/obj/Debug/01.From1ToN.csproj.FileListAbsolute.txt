@@ -1,6 +1,0 @@
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\From1ToN\bin\Debug\From1ToN.exe.config
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\From1ToN\bin\Debug\From1ToN.exe
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\From1ToN\bin\Debug\From1ToN.pdb
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\From1ToN\obj\Debug\01.From1ToN.csprojResolveAssemblyReference.cache
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\From1ToN\obj\Debug\From1ToN.exe
-H:\Tony\Projects\_SoftUni-2015\7-Loops-Homework\From1ToN\obj\Debug\From1ToN.pdb

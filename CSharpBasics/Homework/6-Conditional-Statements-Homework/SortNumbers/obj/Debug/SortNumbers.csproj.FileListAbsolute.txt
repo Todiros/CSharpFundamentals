@@ -1,6 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\SortNumbers\bin\Debug\SortNumbers.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\SortNumbers\bin\Debug\SortNumbers.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\SortNumbers\bin\Debug\SortNumbers.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\SortNumbers\obj\Debug\SortNumbers.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\SortNumbers\obj\Debug\SortNumbers.pdb

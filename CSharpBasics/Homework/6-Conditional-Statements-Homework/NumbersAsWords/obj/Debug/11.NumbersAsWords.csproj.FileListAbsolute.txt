@@ -1,5 +1,0 @@
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\NumbersAsWords\bin\Debug\NumbersAsWords.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\NumbersAsWords\bin\Debug\NumbersAsWords.pdb
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\NumbersAsWords\obj\Debug\NumbersAsWords.exe
-H:\Tony\Projects\_SoftUni\Homework\CSharp\5-Conditional-Statements-Homework\NumbersAsWords\obj\Debug\NumbersAsWords.pdb
