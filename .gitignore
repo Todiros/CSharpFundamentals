@@ -27,7 +27,8 @@
 ipch/
 [Oo]bj/
 [Bb]in
-[Dd]ebug*/
+[Dd]ebug/*
+![Dd]ebug/.exe
 [Rr]elease*/
 Ankh.NoLoad
 
