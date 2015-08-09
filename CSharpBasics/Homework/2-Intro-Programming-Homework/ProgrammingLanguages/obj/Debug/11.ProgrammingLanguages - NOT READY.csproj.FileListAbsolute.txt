@@ -1,6 +1,0 @@
-G:\Tony\SoftUni\Homework\Intro-Programming-Homework\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe.config
-G:\Tony\SoftUni\Homework\Intro-Programming-Homework\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.exe
-G:\Tony\SoftUni\Homework\Intro-Programming-Homework\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.pdb
-G:\Tony\SoftUni\Homework\Intro-Programming-Homework\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe
-G:\Tony\SoftUni\Homework\Intro-Programming-Homework\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.pdb
-G:\Tony\SoftUni\Homework\Intro-Programming-Homework\ProgrammingLanguages\obj\Debug\11.ProgrammingLanguages - NOT READY.csprojResolveAssemblyReference.cache
