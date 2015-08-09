@@ -1,0 +1,14 @@
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\06.PrintNumbers.csprojResolveAssemblyReference.cache
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

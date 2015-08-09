@@ -1,0 +1,13 @@
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.pdb
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb

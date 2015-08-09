@@ -1,0 +1,14 @@
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

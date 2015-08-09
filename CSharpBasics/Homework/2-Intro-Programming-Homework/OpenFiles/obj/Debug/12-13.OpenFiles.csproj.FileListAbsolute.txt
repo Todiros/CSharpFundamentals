@@ -1,0 +1,12 @@
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\OpenFiles\bin\Debug\OpenFiles.exe.config
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\OpenFiles\bin\Debug\OpenFiles.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\OpenFiles\bin\Debug\OpenFiles.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\OpenFiles\obj\Debug\12-13.OpenFiles.csprojResolveAssemblyReference.cache
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\OpenFiles\obj\Debug\OpenFiles.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\OpenFiles\obj\Debug\OpenFiles.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\OpenFiles\bin\Debug\OpenFiles.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\OpenFiles\obj\Debug\OpenFiles.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\OpenFiles\obj\Debug\OpenFiles.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\OpenFiles\bin\Debug\OpenFiles.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\OpenFiles\bin\Debug\OpenFiles.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\OpenFiles\obj\Debug\12-13.OpenFiles.csprojResolveAssemblyReference.cache

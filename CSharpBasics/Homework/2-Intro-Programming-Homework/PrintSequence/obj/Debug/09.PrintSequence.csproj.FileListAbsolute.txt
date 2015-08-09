@@ -1,0 +1,13 @@
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\UniUser\Desktop\Xzahn\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+G:\Tony\SoftUni\Homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+H:\Tony\Projects\_SoftUni\Homework\CSharp\1-Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
