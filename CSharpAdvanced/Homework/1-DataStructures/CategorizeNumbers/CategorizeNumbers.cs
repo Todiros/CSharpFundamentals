@@ -17,9 +17,6 @@ class CategorizeNumbers
         Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
         double[] tokens = Console.ReadLine().Split((char[])null, StringSplitOptions.RemoveEmptyEntries).Select(double.Parse).ToArray();
 
-        //string[] line = Console.ReadLine().Split();
-        //double[] tokens = line.Select(double.Parse).ToArray();
-
         List<double> doubleNumbers = new List<double>();
         List<int> intNumbers = new List<int>();
 
