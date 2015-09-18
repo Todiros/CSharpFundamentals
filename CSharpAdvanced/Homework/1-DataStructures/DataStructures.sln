@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CategorizeNumbers", "Cat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EqualStrings", "EqualStrings\04.EqualStrings.csproj", "{904F2917-94E6-4B4C-8CFA-0F9A82B6F45E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.IncreasingSequence", "IncreasingSequence\05.IncreasingSequence.csproj", "{CCDD1041-1588-4E4E-B720-5626919AE9D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{904F2917-94E6-4B4C-8CFA-0F9A82B6F45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904F2917-94E6-4B4C-8CFA-0F9A82B6F45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904F2917-94E6-4B4C-8CFA-0F9A82B6F45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDD1041-1588-4E4E-B720-5626919AE9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDD1041-1588-4E4E-B720-5626919AE9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDD1041-1588-4E4E-B720-5626919AE9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDD1041-1588-4E4E-B720-5626919AE9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
